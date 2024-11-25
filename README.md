@@ -3,7 +3,7 @@ Juste mes notes faites en autodidacte
 
 # Naissance de Python
 
-**C'est un langage *interprété* créé en 1991 par un développeur néerlandais, Guido van Rossum.
+<strong>C'est un langage <em>interprété</em> créé en 1991 par un développeur néerlandais, Guido van Rossum.</strong>
 
 ``Il est particulièrement indiqué l'apprentissage de la programmation en raison de sa clarté, de sa syntaxe et de sa structure.
 
