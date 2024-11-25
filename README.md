@@ -101,3 +101,12 @@ Cependant, **afin de rendre mon apprentissage plus « confortable »**, j'utilis
 
 >[!todo] Donc il n'y a rien à télécharger :D
 
+# Les environnements de développement pour Python
+
+**Pour développer des scripts en Python, on peut utiliser l'environnement de développement fourni avec le langage (IDLE) mais on peut aussi s'orienter vers d'autres solutions plus complètes telles que : 
+	- [https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)
+	- [http://www.pydev.org/](http://www.pydev.org/)
+	- [http://eric-ide.python-projects.org/](http://eric-ide.python-projects.org/)
+
+>[!info] Pour l'instant dans le cours, j'utilise un environnement de développement en ligne. C'est un choix pédagogique.
+
