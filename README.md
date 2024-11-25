@@ -78,7 +78,7 @@ Mais ce n'est pas encore pour tout de suite, on verra ça plus tard.
 **L'interpréteur du langage Python est téléchargeable sur le site officiel du langage à l'adresse** [https://www.python.org/downloads/](https://www.python.org/downloads/).
 
 Cependant, **afin de rendre mon apprentissage plus « confortable »**, j'utilise un interpréteur intégré à la plateforme de cours : [https://trinket.io/](https://trinket.io/).
-
+>[!todo] Donc il n'y a rien à télécharger :D
 
 # Les scripts Python
 
@@ -97,7 +97,14 @@ Par défaut, le nom du script Python sur trinket.io sera main.py.
 ![[Pasted image 20240628173346.png]]
 ``Le nom du script dans l'interpréteur en ligne trinket.io``
 
+# Les environnements de développement pour Python
+
+**Pour développer des scripts en Python, on peut utiliser l'environnement de développement fourni avec le langage (IDLE) mais on peut aussi s'orienter vers d'autres solutions plus complètes telles que :**
+	- [https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)
+	- [http://www.pydev.org/](http://www.pydev.org/)
+	- [http://eric-ide.python-projects.org/](http://eric-ide.python-projects.org/)
+
+>[!info] Pour l'instant dans le cours, j'utilise un environnement de développement en ligne. C'est un choix pédagogique.
 
 
->[!todo] Donc il n'y a rien à télécharger :D
 
