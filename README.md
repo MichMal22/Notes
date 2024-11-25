@@ -80,6 +80,25 @@ Mais ce n'est pas encore pour tout de suite, on verra ça plus tard.
 
 **L'interpréteur du langage Python est téléchargeable sur le site officiel du langage à l'adresse [https://www.python.org/downloads/](https://www.python.org/downloads/).
 
+# Les scripts Python
+
+**Tout programme écrit en Python est appelé un script (c'est lié au concept d'interprétation).      
+Le code Python qui n'est pas encore interprété est appelé *code source*.
+
+**Quand l'on écrit du code Python et que l'on l'enregistre dans un fichier, on a écrit un script sous la forme de code source. Ce code source peut ensuite être interprété.
+
+**Les fichiers contenant le code source de scripts Python doivent avoir *l'extension .py*.
+
+![[Pasted image 20240628172156.png]] 
+`` Icône d'un fichier contenant le code source d'un script Python.
+
+Comme ici j'utilise (au moment où j'écris ici) un interpréteur en ligne (l' l'application trinket.io), il ne faudra pas enregistrer votre code source sur votre ordinateur.
+Par défaut, le nom du script Python sur trinket.io sera main.py.
+![[Pasted image 20240628173346.png]]
+``Le nom du script dans l'interpréteur en ligne trinket.io
+
+
+
 Cependant, **afin de rendre mon apprentissage plus « confortable »**, j'utilise un interpréteur intégré à la plateforme de cours : [https://trinket.io/](https://trinket.io/).
 
 >[!todo] Donc il n'y a rien à télécharger :D
