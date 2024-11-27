@@ -91,15 +91,15 @@ Le code Python qui n'est pas encore interprété est appelé *code source*.
 
 **Les fichiers contenant le code source de scripts Python doivent avoir *l'extension .py*.**
 
-![Pasted image 20240628172156]
-`` Icône d'un fichier contenant le code source d'un scri(https://github.com/user-attachments/assets/12845225-9723-4493-b895-0857b6448124)
-pt Python.``
+![Pasted image 20240628172156](https://github.com/user-attachments/assets/83917aac-917a-4a06-8cea-d1c8fbf7bb58)
+
+`` Icône d'un fichier contenant le code source d'un script Python.``
 
 Comme ici j'utilise (au moment où j'écris ici) un interpréteur en ligne (l' l'application trinket.io), il ne faudra pas enregistrer votre code source sur votre ordinateur.
 Par défaut, le nom du script Python sur trinket.io sera main.py.
-![Pasted image 20240628173346]
-``Le nom du script dans l'interpréteur en li(https://github.com/user-attachments/assets/cd76052e-075e-4ebe-8ad1-9acc617ce556)
-gne trinket.io``
+![Pasted image 20240628173346](https://github.com/user-attachments/assets/0936d1a7-b2ce-4e71-8600-a45af0b76bd2)
+
+``Le nom du script dans l'interpréteur en ligne trinket.io``
 
 # Les environnements de développement pour Python
 
