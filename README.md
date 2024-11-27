@@ -37,7 +37,8 @@ Les deux principaux modes sont : ***l'interprétation*** et ***La compilation***
 
 Un compilateur transforme l'entièreté du code source d'un programme en un fichier exécutable. Cela permet de se passer d'un programme tiers (interpréteur par exemple) pour exécuter le programme.
 
-![[Pasted image 20240628163636.png]]
+![Pasted image 20240628163636](https://github.com/user-attachments/assets/21a1c441-773f-4674-b376-f0ed4b6c7336)
+
 ``Schéma décrivant la compilation d'un langage de programmation.``
 
 # Comparaison interpréteur / compilateur
@@ -90,13 +91,15 @@ Le code Python qui n'est pas encore interprété est appelé *code source*.
 
 **Les fichiers contenant le code source de scripts Python doivent avoir *l'extension .py*.**
 
-![[Pasted image 20240628172156.png]] 
-`` Icône d'un fichier contenant le code source d'un script Python.``
+![Pasted image 20240628172156]
+`` Icône d'un fichier contenant le code source d'un scri(https://github.com/user-attachments/assets/12845225-9723-4493-b895-0857b6448124)
+pt Python.``
 
 Comme ici j'utilise (au moment où j'écris ici) un interpréteur en ligne (l' l'application trinket.io), il ne faudra pas enregistrer votre code source sur votre ordinateur.
 Par défaut, le nom du script Python sur trinket.io sera main.py.
-![[Pasted image 20240628173346.png]]
-``Le nom du script dans l'interpréteur en ligne trinket.io``
+![Pasted image 20240628173346]
+``Le nom du script dans l'interpréteur en li(https://github.com/user-attachments/assets/cd76052e-075e-4ebe-8ad1-9acc617ce556)
+gne trinket.io``
 
 # Les environnements de développement pour Python
 
