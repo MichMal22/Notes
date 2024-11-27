@@ -24,7 +24,8 @@ Les deux principaux modes sont : ***l'interprétation*** et ***La compilation***
 
 ``Un LANGAGE INTERPRÉTÉ est un langage qui nécessite un programme (un interpréteur) pour traduite (interpréter) ce qui est écrit dans le langage informatique en un langage compris par la machine (des 1 et des 0).``
 
-![[Pasted image 20240628163813.png]]
+![Pasted image 20240628163813](https://github.com/user-attachments/assets/f414b9d7-f675-483d-a0f5-934b210066ca)
+
 ``Schéma décrivant l'interprétation d'un langage de programmation.``
 
 >[!info] En informatique les scripts sont des programmes.
