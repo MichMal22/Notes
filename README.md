@@ -14,7 +14,7 @@ Ce langage est très intéressant parce qu'il est portable (fonctionne avec diff
 - Développement web.
 - Analyse et traitement de données.
 
-> [!info] La documentation officielle du langage Python est consultable (en anglais) à l'adresse  [**https://www.python.org/doc/**](https://www.python.org/doc/).
+> <span style="color: blue">[!info] La documentation officielle du langage Python est consultable (en anglais) à l'adresse  [**https://www.python.org/doc/**](https://www.python.org/doc/).</span>
 
 # Langages interprétés
 
