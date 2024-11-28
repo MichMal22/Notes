@@ -1,15 +1,19 @@
 
->[!note] On peut utiliser des fonctions de modules (bibliothèques de fonction) au moyen de la commande **import**.
+>[!note]
+>On peut utiliser des fonctions de modules (bibliothèques de fonction) au moyen de la commande **import**.
 
->[!example] Exemple :
+>[!example]
+>Exemple :
 ```
 import math
 racine_carree_de_neuf = math.sqrt(9)
 ```
 
->[!note] Une fonction utilisateur s'écrit au moyen de l'instruction **def**.
+>[!note]
+>Une fonction utilisateur s'écrit au moyen de l'instruction **def**.
 
->[!example] Exemple :
+>[!example]
+>Exemple :
 ```
 def total(nombreA, nombreB):
     somme = nombreA + nombre B
@@ -17,10 +21,13 @@ def total(nombreA, nombreB):
 ```
 
 
->[!note] Le code d'une fonction doit **indenté**.
+>[!note]
+>Le code d'une fonction doit **indenté**.
 
->[!note] Les paramètres d'une fonction sont encodés, séparés par des virgules, à l'intérieux d'une parenthèse collée au nom de la fonction.
+>[!note]
+>Les paramètres d'une fonction sont encodés, séparés par des virgules, à l'intérieux d'une parenthèse collée au nom de la fonction.
 
->[!note] L'instruction **return** est utilisée pour renvoyer une (et une seule) information depuis une fonction utilisateur vers le script appelant.
+>[!note]
+>L'instruction **return** est utilisée pour renvoyer une (et une seule) information depuis une fonction utilisateur vers le script appelant.
 
 
