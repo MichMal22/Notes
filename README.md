@@ -14,7 +14,8 @@ Ce langage est très intéressant parce qu'il est portable (fonctionne avec diff
 - Développement web.
 - Analyse et traitement de données.
 
-> [!info] La documentation officielle du langage Python est consultable (en anglais) à l'adresse  [**https://www.python.org/doc/**](https://www.python.org/doc/).
+> [!note]
+> La documentation officielle du langage Python est consultable (en anglais) à l'adresse  [**https://www.python.org/doc/**](https://www.python.org/doc/).
 
 # Langages interprétés
 
@@ -28,7 +29,8 @@ Les deux principaux modes sont : ***l'interprétation*** et ***La compilation***
 
 ``Schéma décrivant l'interprétation d'un langage de programmation.``
 
->[!info] En informatique les scripts sont des programmes.
+>[!note]
+>En informatique les scripts sont des programmes.
 
 
 # Langages compilés
@@ -73,14 +75,16 @@ Python utilise *interprétation et compilation* :
 
 Mais ce n'est pas encore pour tout de suite, on verra ça plus tard.
 
->[!info] Le bytecode est un code intermédiaire entre les instructions machines et le code source. En informatique, une machine virtuelle (anglais virtual machine, abr. VM) est un programme qui crée une illusion d'un appareil informatique.
+>[!note]
+> Le bytecode est un code intermédiaire entre les instructions machines et le code source. En informatique, une machine virtuelle (anglais virtual machine, abr. VM) est un programme qui crée une illusion d'un appareil informatique.
 
 # L'interpréteur Python
 
 **L'interpréteur du langage Python est téléchargeable sur le site officiel du langage à l'adresse** [https://www.python.org/downloads/](https://www.python.org/downloads/).
 
 Cependant, **afin de rendre mon apprentissage plus « confortable »**, j'utilise un interpréteur intégré à la plateforme de cours : [https://trinket.io/](https://trinket.io/).
->[!todo] Donc il n'y a rien à télécharger :D
+>[!todo]
+> Donc il n'y a rien à télécharger :D
 
 # Les scripts Python
 
@@ -108,6 +112,7 @@ Par défaut, le nom du script Python sur trinket.io sera main.py.
 	- [http://www.pydev.org/](http://www.pydev.org/)
 	- [http://eric-ide.python-projects.org/](http://eric-ide.python-projects.org/)
 
->[!info] Pour l'instant dans le cours, j'utilise un environnement de développement en ligne. C'est un choix pédagogique.
+>[!note]
+> Pour l'instant dans le cours, j'utilise un environnement de développement en ligne. C'est un choix pédagogique.
 
 
